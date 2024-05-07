@@ -1,4 +1,6 @@
-
+'''
+Functions used for the tokenization of corpus, to know the frequency of a token.
+'''
 def tokenize(corpus):
     word = ''
     counter = 0 
